@@ -1,0 +1,11 @@
+com\clienteajedrez\tablero\Casilla.class
+com\clienteajedrez\ClienteAjedrez.class
+com\clienteajedrez\interfaz\FinPartidaListener.class
+com\clienteajedrez\piezas\Caballo.class
+com\clienteajedrez\piezas\Alfil.class
+com\clienteajedrez\piezas\Pieza.class
+com\clienteajedrez\piezas\Peon.class
+com\clienteajedrez\piezas\Rey.class
+com\clienteajedrez\piezas\Torre.class
+com\clienteajedrez\interfaz\ProgramaAjedrez.class
+com\clienteajedrez\piezas\Reina.class
